@@ -102,32 +102,32 @@ A fully relational structure suitable for real-world **risk management & complia
 
 ### **Exposure & Credit Risk**
 
-📌 Total exposure per counterparty
-📌 Credit limit utilization %
-📌 Breach / Watchlist / Safe classification
-📌 Top 10 counterparties by exposure
-📌 Exposure by credit rating
-📌 Region-wise exposure concentration
+📌 Total exposure per counterparty  
+📌 Credit limit utilization %  
+📌 Breach / Watchlist / Safe classification  
+📌 Top 10 counterparties by exposure  
+📌 Exposure by credit rating  
+📌 Region-wise exposure concentration  
 
 ### **Trade Performance**
 
-📌 Mark-to-Market (MTM) difference
-📌 Highest PnL counterparties
-📌 Worst performing trades
-📌 Commodity-wise trade value vs market value
+📌 Mark-to-Market (MTM) difference  
+📌 Highest PnL counterparties  
+📌 Worst performing trades  
+📌 Commodity-wise trade value vs market value  
 
 ### **Market Analytics**
 
-📌 Highest volatility commodities (last 30 days)
-📌 Daily exposure trend for a specific commodity
+📌 Highest volatility commodities (last 30 days)  
+📌 Daily exposure trend for a specific commodity  
 
 ### **Data Quality**
 
-📌 Identify trades with missing or incorrect data
+📌 Identify trades with missing or incorrect data  
 
 ### **Scenario Simulation**
 
-📌 “What if market drops by 10%?” — exposure & PnL impact
+📌 “What if market drops by 10%?” — exposure & PnL impact  
 
 ---
 
@@ -151,7 +151,7 @@ A fully relational structure suitable for real-world **risk management & complia
 
 # 📎 Project Files
 
-📄 **Risk_Analytics_Queries.sql** → All SQL queries: credit exposure, PnL, volatility, breaches, what-if analysis
-📊 **counterparty_data.csv** → Counterparty dataset
-📊 **trade_transactions.csv** → Trade details
-📊 **market_prices.csv** → Commodity prices & volatility.
+📄 **Risk_Analytics_Queries.sql** → All SQL queries: credit exposure, PnL, volatility, breaches, what-if analysis  
+📊 **counterparty_data.csv** → Counterparty dataset  
+📊 **trade_transactions.csv** → Trade details  
+📊 **market_prices.csv** → Commodity prices & volatility.  
